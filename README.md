@@ -1,6 +1,6 @@
 <h1> We-Care</h1>
 <br>
-<h2>Esse é mais um projeto resposivo que desenvolvi com:
+<h2>Esse é mais um projeto responsivo que desenvolvi com:
 <br>
 <br>
  
